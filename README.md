@@ -1,1 +1,1 @@
-This is a repository for my entry of the Kaggle Backpack Prediction Challenge.
+This is a repository for my entry into the Kaggle Backpack Prediction Challenge.
